@@ -1,4 +1,4 @@
-# Movie Recommendor 
+# Movie Recommendation
 
 https://welcomejay.herokuapp.com/
 
